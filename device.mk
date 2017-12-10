@@ -346,6 +346,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     librmnetctl \
     libprotobuf-cpp-full \
+    libshim_ril \
     libxml2
 
 #RIL
